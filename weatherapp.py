@@ -5,7 +5,7 @@ import requests
 import json, base64
 from typing import Sized
 
-api_key = "7a94044a978f9efaeb198935f60f4280"
+api_key = "YOUR API ID HERE"  #openweathermap.org
 base_url = "http://api.openweathermap.org/data/2.5/weather?"
 
 
